@@ -63,6 +63,8 @@
 #include <stdint.h>
 #include <stdbool.h>
 
+#include "../../min_zephyr.h"
+
 #ifdef ASSERTION_CHECKING
 #include <assert.h>
 #endif
